@@ -1,0 +1,5 @@
+stud_num,pat_id,test_type,test_date,dif_diag_1,dif_diag_2,dif_diag_3,final_diag
+1,897761,wgs,12/3/19,,,,gitelman syndrome
+2,999871,wgs,1/12/21,bartter syndrome,gitelman syndrome,,
+3,234234,exome,3/12/20,,,,familial nephrotic syndrome
+4,332333,gene panel,2/2/21,,,,distal renal tubular acidosis

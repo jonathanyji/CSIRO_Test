@@ -1,0 +1,26 @@
+[
+  {
+    "patientId": "A0001",
+    "differentialDiagnosis": [],
+    "confimedDiagnosis": "Gitelman's syndrome",
+    "test_type": "exome",
+    "test_date": "2021-04-13T19:15:42.510Z"
+  },
+  {
+    "patientId": "A0002",
+    "differentialDiagnosis": [
+      "Distal renal tubular acidosis",
+      "Sjogren syndrome"
+    ],
+    "confimedDiagnosis": "",
+    "test_type": "whole genome",
+    "test_date": "2020-01-23T10:25:43.411Z"
+  },
+  {
+    "patientId": "A0003",
+    "differentialDiagnosis": [],
+    "confimedDiagnosis": "IgA glomerulonephritis",
+    "test_type": "panel",
+    "test_date": "2021-01-20T12:25:43.321Z"
+  }
+]
